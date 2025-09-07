@@ -10,4 +10,6 @@ public class FarmEcomApplication {
 		SpringApplication.run(FarmEcomApplication.class, args);
 	}
 //MAIN METHOD SAB METHOD KI BAAP HOTI H
+//main method is the best method of java
+
 }
